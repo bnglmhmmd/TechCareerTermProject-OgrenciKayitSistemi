@@ -1,0 +1,14 @@
+// rfc
+//props: componentler arasında veri taşımaya yarar.
+//key: unique
+//constructor
+//super(props)
+//state:Durum
+//setState: state değiştirmek istersek
+//switch
+//router: sayfalara arasında redirection
+
+
+
+
+npm install react-router-dom@5.2.0
